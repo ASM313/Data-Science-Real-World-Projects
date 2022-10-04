@@ -1,0 +1,19 @@
+{
+  "name": "data-science-real-world-projects",
+  "version": "1.0.0",
+  "description": "Artificial Intelligence applications will be developed here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASM313/Data-Science-Real-World-Projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASM313/Data-Science-Real-World-Projects/issues"
+  },
+  "homepage": "https://github.com/ASM313/Data-Science-Real-World-Projects#readme"
+}
