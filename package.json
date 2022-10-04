@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/ASM313/Data-Science-Real-World-Projects/issues"
   },
-  "homepage": "https://github.com/ASM313/Data-Science-Real-World-Projects#readme"
+  "homepage": "https://github.com/ASM313/Data-Science-Real-World-Projects#readme",
+
+  
+  "publishConfig": {
+    "@ASM313:registry": "https://npm.pkg.github.com"
 }
+  
+}
+
